@@ -1,6 +1,6 @@
 # User Location Management System
 
-This project implements a RESTful API for managing user locations using Node.js, Express.js, and MongoDB.
+This project implements a RESTful API for managing user locations.
 
 ## Table of Contents
 

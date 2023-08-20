@@ -5,6 +5,7 @@ This project implements a RESTful API for managing user locations using Node.js,
 ## Table of Contents
 
 - [Features](#features)
+- [Deployment-Link](#deployment-link)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -25,6 +26,10 @@ This project implements a RESTful API for managing user locations using Node.js,
 - user_location will have three fields NAME, Latitude, Longitude and excluded.
 - user can update the user_location table using another REST API called update_data
 - READER can call the get_users/N which returns the nearest N users from the location (0,0).
+
+## Deployment-Link
+
+ Deployed Link for this project, Visit [https://spectacled-third-zephyr.glitch.me/]
 
 ## Getting Started
 
